@@ -1,4 +1,4 @@
-#this cose Represents the phone book, receives the phone number, and returns to us the name of the owner of the number
+#this code Represents the phone book, receives the phone number, and returns to us the name of the owner of the number
 
 
 users =[
