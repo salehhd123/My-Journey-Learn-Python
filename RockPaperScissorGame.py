@@ -3,7 +3,7 @@ import random
 person_choise=input("pleace pick rock , paper ,scissor :")
 
 picks=['rock','paper','scissor']
-#the computer with pick randmoly
+#the computer pick randmoly
 computer_choise= random.choice(picks)
 
 #the game statments
