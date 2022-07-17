@@ -13,7 +13,7 @@ users =[
 
 def check(num):
         for x in users:
-            if(type(num)== int):
+            if type(num)== int and num>=1111111111 and num<10000000000:
                 if  num == x.get('phoneNumber'):
                     print('the number is for :' + x.get('name'))
                 else:
